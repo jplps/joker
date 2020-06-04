@@ -4,6 +4,10 @@
   "description": "The ultimate anonymous Joker!",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev --transpileOnly --ignore-watch node_modules src/server.ts",
+    "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
+    "knex:seed": "knex --knexfile knexfile.ts seed:run",
+    "knex:rollback:all": "knex --knexfile knexfile.ts migrate:rollback --all",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
