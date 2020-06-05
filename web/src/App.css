@@ -6,3 +6,41 @@ body {
 * {
   outline: none !important;
 }
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+.grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+form * {
+  display: grid;
+}
+fieldset * {
+  max-width: 100%;
+}
+fieldset {
+  padding: 0;
+  border: none;
+}
+legend {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}

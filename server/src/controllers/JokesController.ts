@@ -13,10 +13,10 @@ class JokesController {
 	}
 
 	async create(req: Request, res: Response) {
-		const { text } = req.body;
+		const { setup, punch } = req.body;
 
 		try {
-			const joke = await knex('jokes').insert({ text });
+			const joke = await knex('jokes').insert({ setup, punch });
 
 			return res.status(200).json(joke);
 		} catch (err) {
