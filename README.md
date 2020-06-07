@@ -4,18 +4,14 @@ Tell a joke and get a laugh!
 
 ## Concept
 
-This system is built following the study made by [Greg Dean's Stand-Up Comedy Classes](https://stand-upcomedy.com/).
-
+This system is built following the study made by [Greg Dean's Stand-Up Comedy Classes](https://stand-upcomedy.com/). 
 **Do you know how to write a joke?** There, you'll learn more about structures and other cool stuff! Please visit.
 
 ## Structure
 
-System: Dynamic Application
-
-Main lang(s): JavaScript (ECMA) / TypeScript
-
-Stack: Node / Express & Knex / React
-
+System: Dynamic Application 
+Main lang(s): JavaScript (ECMA) / TypeScript 
+Stack: Node / Express & Knex / React 
 Pattern: RESTful
 
 ### Server - The base backend with Node & Express
