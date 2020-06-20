@@ -4,8 +4,7 @@ Tell a joke and get a laugh!
 
 ## Concept
 
-This system is built following the study made by [Greg Dean's Stand-Up Comedy Classes](https://stand-upcomedy.com/).  
-**Do you know how to write a joke?** There, you'll learn more about structures and other cool stuff! Please visit.
+This system is built following the study made by [Greg Dean's Stand-Up Comedy Classes](https://stand-upcomedy.com/). **Do you know how to write a joke?** There, you'll learn more about structures and other cool stuff! Please visit.
 
 ## Structure
 
