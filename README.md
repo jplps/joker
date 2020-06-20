@@ -34,3 +34,10 @@ Now we may open two differents terminals, and this should get the app up and run
 		web/ $ yarn start
 
 If all went well, see localhost:3000 in the browser.
+
+## Requirements
+
+- [x] Provide a link to the comedy study
+- [x] Provide a form to register a rudimentary Joke
+- [x] Show updated Jokes List
+- [ ] Implement more Joke Styles
